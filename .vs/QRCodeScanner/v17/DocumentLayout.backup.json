@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c sahrp\\QRCodeScanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|d:\\c sahrp\\qrcodescanner\\qrcodescanner\\formrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|solutionrelative:qrcodescanner\\formrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|D:\\c sahrp\\QRCodeScanner\\qrcodescanner\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|solutionrelative:qrcodescanner\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|D:\\c sahrp\\QRCodeScanner\\qrcodescanner\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|solutionrelative:qrcodescanner\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|D:\\c sahrp\\QRCodeScanner\\qrcodescanner\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|solutionrelative:qrcodescanner\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|D:\\c sahrp\\QRCodeScanner\\qrcodescanner\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|solutionrelative:qrcodescanner\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|D:\\c sahrp\\QRCodeScanner\\qrcodescanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|solutionrelative:qrcodescanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|D:\\c sahrp\\QRCodeScanner\\qrcodescanner\\formrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|solutionrelative:qrcodescanner\\formrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|D:\\c sahrp\\QRCodeScanner\\qrcodescanner\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53B4652F-927F-4230-8515-E627D45BB4C8}|QRCodeScanner\\QRCodeScanner.csproj|solutionrelative:qrcodescanner\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRecords.cs",
+              "DocumentMoniker": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\FormRecords.cs",
+              "RelativeDocumentMoniker": "QRCodeScanner\\FormRecords.cs",
+              "ToolTip": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\FormRecords.cs",
+              "RelativeToolTip": "QRCodeScanner\\FormRecords.cs",
+              "ViewState": "AgIAAGIAAAAAwszMzMwcwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:44:00.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\FormLogin.cs",
+              "RelativeDocumentMoniker": "QRCodeScanner\\FormLogin.cs",
+              "ToolTip": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\FormLogin.cs",
+              "RelativeToolTip": "QRCodeScanner\\FormLogin.cs",
+              "ViewState": "AgIAAEEAAABAv8zMzMwqwD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:25:39.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormRecords.cs [Design]",
+              "DocumentMoniker": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\FormRecords.cs",
+              "RelativeDocumentMoniker": "QRCodeScanner\\FormRecords.cs",
+              "ToolTip": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\FormRecords.cs [Design]",
+              "RelativeToolTip": "QRCodeScanner\\FormRecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:20:23.309Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\FormLogin.cs",
+              "RelativeDocumentMoniker": "QRCodeScanner\\FormLogin.cs",
+              "ToolTip": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\FormLogin.cs [Design]",
+              "RelativeToolTip": "QRCodeScanner\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:19:51.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\FormMain.cs",
+              "RelativeDocumentMoniker": "QRCodeScanner\\FormMain.cs",
+              "ToolTip": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\FormMain.cs",
+              "RelativeToolTip": "QRCodeScanner\\FormMain.cs",
+              "ViewState": "AgIAALsAAAAA75mZmZknwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:23:49.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\FormMain.cs",
+              "RelativeDocumentMoniker": "QRCodeScanner\\FormMain.cs",
+              "ToolTip": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\FormMain.cs [Design]",
+              "RelativeToolTip": "QRCodeScanner\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:15:37.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "session.cs",
+              "DocumentMoniker": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\session.cs",
+              "RelativeDocumentMoniker": "QRCodeScanner\\session.cs",
+              "ToolTip": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\session.cs",
+              "RelativeToolTip": "QRCodeScanner\\session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:09:13.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\Program.cs",
+              "RelativeDocumentMoniker": "QRCodeScanner\\Program.cs",
+              "ToolTip": "D:\\c sahrp\\QRCodeScanner\\QRCodeScanner\\Program.cs",
+              "RelativeToolTip": "QRCodeScanner\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAmJmZmZkBwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:27:27.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
